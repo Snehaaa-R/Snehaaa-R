@@ -1,4 +1,11 @@
-## Hi there 👋
+🎓 Business Analytics Master's Student @ Drexel University
+📊 Data Analyst • BI Developer • AI Enthusiast • SQL & Power BI Wizard
+
+Hi there! I'm passionate about building data-driven solutions that drive smart decisions. I specialize in SQL, Power BI, forecasting, and dashboard storytelling—with real-world experience across marketing, healthcare, education, and finance.
+
+Currently exploring generative AI, LLMs, and scalable analytics tools. Always excited to turn raw data into actionable insight!
+
+
 
 <!--
 **Snehaaa-R/Snehaaa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
